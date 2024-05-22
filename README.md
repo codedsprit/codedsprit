@@ -6,9 +6,11 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=20&color=ADF78B&center=true&width=410&height=45&lines=Hi!,+I'm+codedsprit+:)"
   </p>      
 <!-- Codedsprit's Contact links -->
+<!--
 <p align="center">  
   <a href="https://ko-fi.com/roshantiwaree">🍦 Sponsor</a>&#160;&#160; &#160;&#160;&#160; <a href="https://discord.com/@codedsprit">🗯️ Discord</a></sub>
         </p>
+          -->
 <details>
   <summary></summary>
 <br>
